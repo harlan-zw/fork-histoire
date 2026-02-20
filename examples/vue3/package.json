@@ -18,7 +18,7 @@
   "dependencies": {
     "lottie-web": "^5.12.2",
     "pinia": "^2.1.7",
-    "vue": "^3.3.8"
+    "vue": "^3.0.0"
   },
   "devDependencies": {
     "@histoire/app": "workspace:*",
@@ -28,10 +28,10 @@
     "cypress": "^13.5.1",
     "globby": "^13.2.2",
     "histoire": "workspace:*",
-    "minimatch": "^5.1.6",
+    "minimatch": "^10.2.1",
     "nodemon": "^2.0.22",
     "sass": "^1.69.5",
     "start-server-and-test": "^1.15.4",
-    "vite": "^5.0.11"
+    "vite": "^5.4.21"
   }
 }
