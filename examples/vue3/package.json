@@ -28,7 +28,7 @@
     "cypress": "^13.5.1",
     "globby": "^13.2.2",
     "histoire": "workspace:*",
-    "minimatch": "^5.1.6",
+    "minimatch": "^5.1.8",
     "nodemon": "^2.0.22",
     "sass": "^1.69.5",
     "start-server-and-test": "^1.15.4",
