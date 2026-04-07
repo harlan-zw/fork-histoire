@@ -54,10 +54,10 @@
     "fs-extra": "^10.1.0",
     "globby": "^13.1.1",
     "histoire": "workspace:*",
-    "svelte": "^4.2.7",
+    "svelte": "^5.53.5",
     "svelte-preprocess": "^4.10.7",
     "typescript": "^4.9.5",
-    "vite": "^5.0.11"
+    "vite": "^6.4.2"
   },
   "peerDependencies": {
     "histoire": "workspace:^",
